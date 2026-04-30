@@ -10,6 +10,7 @@
 * [2025-06-28 | JAS 39 Gripen](2025-06-28/README.md)
 * [2025-12-31 | Fireworks](2025-12-31/README.md)
 * [2026-01-20 | Aurora](2026-01-20/README.md)
-* [2026-04-17 | Landscape, Car and Trains](2026-04-17/README.md)
+* [2026-04-17 | Landscape, Car & Trains](2026-04-17/README.md)
+* [2026-04-17 | Bonfire & Moon](2026-04-30/README.md)
 
 The images are licensed under [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
